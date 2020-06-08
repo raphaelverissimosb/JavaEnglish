@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96e32cff-aa43-4a8e-8ce4-bb15e99cef6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,10 +95,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="171" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.1024@0.0.1366.728" timestamp="1591371033721" />
-    <state x="386" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1591370908044">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1728" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1591622664710">
+      <screen x="1366" y="0" width="1280" height="1024" />
     </state>
     <state x="386" y="174" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.1024@0.0.1366.728" timestamp="1591370908044" />
+    <state x="1728" y="245" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.1024@1366.0.1280.1024" timestamp="1591622664710" />
     <state x="354" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591147103556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
