@@ -1,2 +1,2 @@
-# Bootcamp Learn English Code (Tim Buschaka)
+# Bootcamp Learn English Code (teacher Tim Buschaka)
 ***
